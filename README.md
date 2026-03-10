@@ -20,6 +20,11 @@ Insights and recommendations are provided across the following key areas:
 - **Marketing Investment Efficiency:** Analysis of advertising and promotional expenses across markets.
 - **Financial Performance vs Targets:** Comparison of actual performance against defined business targets.
 
+An interactive PowerBI dashboard can be downloaded here [link].
+The SQL queries utilized to inspect and perform quality checks can be found [here link].
+The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found [here].
+Targeted SQL queries regarding various business questions can be found [here].
+
 ## Project Objectives
 The main objectives of this project are:
 
@@ -32,7 +37,8 @@ The main objectives of this project are:
 
 ---
 
-# 2. Data Structure Overview
+# 2. Data Structure & Initial Checks
+Connect Technology's database structure as seen below consists of 
 
 ## Data Source
 [Describe where the data comes from]
