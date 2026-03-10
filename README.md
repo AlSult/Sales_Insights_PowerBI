@@ -38,45 +38,9 @@ The main objectives of this project are:
 ---
 
 # 2. Data Structure & Initial Checks
-Connect Technology's database structure as seen below consists of 
+Connect Technology's database structure as seen below consists of twelve tables with a total row count of 5,811,576 records.
 ![Data Structure](diagrams/ERD_PowerBI_Simple.png)
-
-## Data Source
-[Describe where the data comes from]
-
-Example:
-- Source: [Kaggle / Company dataset / Public dataset]
-- Format: [CSV / Excel / SQL Database]
-
-## Data Model
-[Explain how the data tables are structured]
-
-Example:
-
-| Table Name | Description |
-|------------|-------------|
-| Orders | Contains order level information |
-| Customers | Customer demographic information |
-| Products | Product details |
-| Sales | Sales transaction data |
-
-## Key Fields
-
-Example:
-
-- **Order ID** – Unique identifier for each order  
-- **Order Date** – Date of the transaction  
-- **Product Category** – Category of the product  
-- **Sales Amount** – Revenue generated  
-- **Profit** – Profit generated from the order  
-
-## Data Relationships
-[Explain relationships between tables if applicable]
-
-Example:
-
-- Orders → Customers (Many to One)
-- Orders → Products (Many to One)
+Prior to beginning the analysis, a variaty of checks were conductedfor quality control and familarization with the dataset.The SQL queries utilized to inspect and perform quality checks can be found [here/link]. 
 
 ---
 
