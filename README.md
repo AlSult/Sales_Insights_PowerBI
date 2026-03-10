@@ -39,7 +39,9 @@ The main objectives of this project are:
 
 # 2. Data Structure & Initial Checks
 Connect Technology's database structure as seen below consists of twelve tables with a total row count of 5,811,576 records.
+
 ![Data Structure](diagrams/ERD_PowerBI_Simple.png)
+
 Prior to beginning the analysis, a variaty of checks were conductedfor quality control and familarization with the dataset.The SQL queries utilized to inspect and perform quality checks can be found [here/link]. 
 
 ---
@@ -47,13 +49,11 @@ Prior to beginning the analysis, a variaty of checks were conductedfor quality c
 # 3. Executive Summary
 
 ## Overview of Findings
-[Provide a short summary of the most important insights]
+Text
 
-Example placeholder text:
+[The screenshot here.]
 
-- Overall sales performance showed [trend].
-- The top performing product category was [category].
-- Certain regions showed stronger sales growth.
+Below is the overview page from the PowerBI dashboard and more examples are included throught the report. The entire interactive dashboard can be doawnloaded [here](https://app.powerbi.com/links/n8sLW2izF0?ctid=f6b89253-cff1-4a2a-9bc9-a3f27ee923b1&pbi_source=linkShare).
 
 ## Key Metrics
 
