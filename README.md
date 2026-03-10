@@ -39,6 +39,7 @@ The main objectives of this project are:
 
 # 2. Data Structure & Initial Checks
 Connect Technology's database structure as seen below consists of 
+![Data Structure](diagrams/ERD.png)
 
 ## Data Source
 [Describe where the data comes from]
