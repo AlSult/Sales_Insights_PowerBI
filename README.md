@@ -5,21 +5,30 @@
 # 1. Background and Overview
 
 ## Project Background
-[Connect Technology is a global e-commerce company that sells popular hardware gadgets to customers worldwide through three primary sales channels: retailers, company-owned stores, and distributors.]
+Connect Technology is a global e-commerce company that sells popular hardware gadgets to customers worldwide through three primary sales channels: retailers, company-owned stores, and distributors.
 
-Example points you may include:
-- The business problem or scenario
-- Why this analysis was needed
-- The industry or dataset context
+Over time, the company has accumulated a large volume of data across multiple areas of the business, including finance, sales performance, marketing investments, supply chain operations, and strategic targets. However, much of this data has historically been underutilized for strategic decision-making.
+
+This project develops a Business Insights 360° Power BI dashboard which analyzes and synthesizes the available data to uncover meaningful insights that can help improve Connect Technology's commercial performance and support data-driven business decisions.
+
+The analysis focuses on identifying patterns, including sales targets, operational expenses, and market-level performance data, enabling a comprehensive evaluation of the company’s commercial and operational performance.
+
+Insights and recommendations are provided across the following key areas:
+
+- **Sales Trends Analysis:** Identification of revenue patterns, growth opportunities, and seasonal trends.
+- **Product and Market Performance:** Evaluation of how different markets contribute to overall sales and profitability.
+- **Marketing Investment Efficiency:** Analysis of advertising and promotional expenses across markets.
+- **Financial Performance vs Targets:** Comparison of actual performance against defined business targets.
 
 ## Project Objectives
-[List the main objectives of the project]
+The main objectives of this project are:
 
-Example:
-
-- Objective 1: [Describe objective]
-- Objective 2: [Describe objective]
-- Objective 3: [Describe objective]
+- Develop a **360° business intelligence dashboard** that integrates data from multiple business functions.
+- Monitor **financial performance against company targets**, including Net Sales, Gross Margin, and Net Profit.
+- Analyze **sales performance across markets and time periods** to identify growth opportunities.
+- Evaluate **marketing expenses and promotional investments** to understand their impact on business performance.
+- Provide **operational insights for supply chain efficiency**.
+- Deliver a **high-level executive overview of key business KPIs** to support strategic decision-making.
 
 ---
 
